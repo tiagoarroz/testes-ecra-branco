@@ -1,0 +1,7 @@
+{
+  "name": "testes-ecra-branco",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
