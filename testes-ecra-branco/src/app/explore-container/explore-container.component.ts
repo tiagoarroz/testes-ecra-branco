@@ -10,4 +10,6 @@ export class ExploreContainerComponent {
 
   @Input() name?: string;
 
+  variavelTeste = "olá, sou a variável"
+
 }
