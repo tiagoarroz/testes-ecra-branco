@@ -20,6 +20,11 @@ Entrar na pasta do projeto
 cd testes-ecra-branco
 ```
 
+Instalar dependências
+```
+npm install
+```
+
 Build
 ```
 ionic build
